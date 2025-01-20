@@ -32,7 +32,7 @@
 </a>
 <hr/>
 
-<h2 align="center">🛠 Language and tools</h2>
+<h2 align="center">🛠 Frameworks, Tools & Languages</h2>
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
