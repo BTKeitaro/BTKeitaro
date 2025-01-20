@@ -32,8 +32,8 @@
 </a>
 <hr/>
 
-<h2 align="center">🛠 Frameworks, Tools & Languages</h2>
-<br/>
+<h3 align="center">🛠 Frameworks, Tools & Languages</h3>
+
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=aws,py,linux" /><br>
