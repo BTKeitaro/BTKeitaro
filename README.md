@@ -12,43 +12,29 @@
 
 <div align="center">
   
-🔭 I’m currently working on a **DVWA and SIEM Deployment Project**
+🖥️ I’m currently working on a **DVWA and SIEM Deployment Project**
 
-📚 I'm currently learning **Wazuh**
+🌱 I'm currently learning **Wazuh**
 
 💬 Ask me about **AWS**, **SIEM/XDR Tools** or anything [here](https://btkeitaro.github.io/)
 
 <div align="center">
+</a>
+ <a href="https://www.linkedin.com/in/keitaro-wiltshire-4b94651b7/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+ </a>
+ <a href="mailto:keitarowiltshie03@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+ </a>
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=RSS&label=&color=FFA500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
 </div>
 
-###
+</a>
+<hr/>
 
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
+<h2 align="center">🛠 Language and tools</h2>
+<br/>
 <div align="center">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,py,linux" /><br>
+</a>
