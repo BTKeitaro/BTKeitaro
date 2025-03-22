@@ -36,5 +36,5 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,py,linux,php,docker" /><br>
+<img src="https://skillicons.dev/icons?i=aws,docker,py,linux" /><br>
 </a>
